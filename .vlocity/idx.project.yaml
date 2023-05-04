@@ -1,0 +1,29 @@
+Name: IDX
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - lwc/cfCpqAssetSearch
+    - lwc/cfCpqAssetViewerAdvancedSearch
+    - lwc/cfCpqAssetViewerChildLineItem
+    - lwc/cfCpqAssetViewerContainer
+    - lwc/cfCpqAssetViewerGroupLineItems
+    - lwc/cfCpqAssetViewerLineItem
+    - lwc/cfCpqAssetViewerSelectAllAssets
+    - lwc/cfCpqCartInlineChildPromoForAssetViewer
+    - lwc/cfCpqCartInlinePromoForAssetViewer
+    - lwc/cfCpqPromotionDetailViewForAssetViewer
+    - lwc/cfESM_SelfService_AssetViewContainer
+    - lwc/cfESM_SelfService_AssetViewContainer_18_salesforce
+    - lwc/cfESM_SelfService_AssetViewerAttributeTooltip
+    - lwc/cfESM_SelfService_AssetViewerColumn
+    - lwc/cfESM_SelfService_AssetViewerGroupItems
+    - lwc/cfESM_SelfService_AssetViewerItemAttribute
+    - lwc/cfESM_SelfService_AssetViewerLineItem
+    - lwc/cPQAssetViewerOrderFlowMultiLanguage
+    - lwc/cPQAssetViewerQuoteFlowMultiLanguage
+    - profiles/Admin.profile
+VlocityTypesToFetch:
+
+SalesforceTypesToFetch:
+    - FlexiPage
+    - LightningComponentBundle
+    - Profile

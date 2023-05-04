@@ -1,0 +1,17 @@
+Name: IDX set 2
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - CpqConfigurationSetup/CPQ Cart Preview Modal Use API
+    - CpqConfigurationSetup/CPQ Toast Message Log Level
+    - CpqConfigurationSetup/CpqCachePvtKey
+    - CpqConfigurationSetup/CpqNextPricingPlan
+    - OmniScript/CPQ_AssetViewerOrderFlow_Multi-Language
+    - OmniScript/CPQ_ChangeToOrder_Multi-Language
+    - OmniScript/CPQ_SingleMove_Multi-Language
+VlocityTypesToFetch:
+    - CpqConfigurationSetup
+    - DataRaptor
+    - IntegrationProcedure
+    - OmniScript
+    - VlocityCard
+SalesforceTypesToFetch:
